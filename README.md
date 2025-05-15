@@ -4,9 +4,9 @@ This repository contains my solutions to various LeetCode programming problems. 
 
 ## Problems Solved
 
-| Problem                                                              | Solution                                            |
-| -------------------------------------------------------------------- | --------------------------------------------------- |
-| [Two Sum](https://leetcode.com/problems/two-sum/){:target="\_blank"} | [Solution](TwoSum/Solution.java){:target="\_blank"} |
+| Problem                                                                      | Solution                                                    |
+| ---------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| <a href="https://leetcode.com/problems/two-sum/" target="_blank">Two Sum</a> | <a href="TwoSum/Solution.java" target="_blank">Solution</a> |
 
 ## About
 
