@@ -16,7 +16,7 @@ class Solution {
       }
 
       i += 1;
-      j = j - i;
+      j -= 1;
     }
 
     return true;
